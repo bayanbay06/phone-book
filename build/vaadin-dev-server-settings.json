@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/azamat.bayanbay/Desktop/phone-book/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/azamat.bayanbay/Desktop/phone-book/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/azamat.bayanbay/Desktop/phone-book/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/azamat.bayanbay/Desktop/phone-book/build/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/azamat.bayanbay/Desktop/phone-book/build/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/azamat.bayanbay/Desktop/phone-book/build/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/azamat.bayanbay/Desktop/phone-book/build/dev-bundle/config",
+  "jarResourcesFolder": "/Users/azamat.bayanbay/Desktop/phone-book/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/azamat.bayanbay/Desktop/phone-book/build/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
